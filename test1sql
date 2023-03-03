@@ -1,2 +1,4 @@
 create table t1(id integer,name varchar(20));
-Insert into t1 values (1,'Eimon Soe');
+describe t1;
+insert into t1 values('20-APR-1995');
+select * from t1;
